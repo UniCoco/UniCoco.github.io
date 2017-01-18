@@ -3,6 +3,12 @@ body{
   color: black; 
 }
 
+#navigation{
+  text-align:center;
+  font-size:250%;
+}
+
+
 img{
   height:200px;
 }
