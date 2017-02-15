@@ -1,11 +1,25 @@
 body{
-  background-color:orange;
-  color: black; 
+  background-color:black;
+ 
 }
+  
+  
+#container{
+    padding: 50px;
+    margin 50px;
+    border-radius 25px;
+    background-color:red;
+    color: rgb (3,150,100);
+    color: rgba(3, 101, 100, 0.75);
+    font-family: "Crafty Girls";
+    border-radius:25px;
+  }
+
 
 #navigation{
   text-align:center;
   font-size:250%;
+  font-family: "Crafty Girls";
 }
 
 
