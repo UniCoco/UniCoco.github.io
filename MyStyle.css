@@ -1,6 +1,6 @@
 body{
   background-color:black;
- 
+ /* the code above this changes the color of the backround to black*/
 }
   
   
@@ -14,15 +14,17 @@ body{
     font-family: "Crafty Girls";
     border-radius:25px;
   }
-
+/* } is a way of ending and starting code its like a period in the coding world. and the code above that is changing the backround even more adding
+ new borders and a extra color to it giving it more than one color and pattern to it and cleaning it up more border radius background color and border radius is stuff contributing to the backround it makes it so 
+the backround can have hald black half red*/
 
 #navigation{
   text-align:center;
   font-size:250%;
   font-family: "Crafty Girls";
 }
+/*  the code above this is for the text how big it is how it aligns and the font*/
 
-
-img{
+img{ /*  the code below this is the hight of pictures */
   height:200px;
 }
